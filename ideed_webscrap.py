@@ -1,13 +1,12 @@
-# import pandas as pd
-# import requests
-# import pickle
-# from bs4 import BeautifulSoup as bsopa  # parse web-page
-# import datetime
-# from collections import defaultdict
-# import re
-# import numpy as np
-#
-#
+import pandas as pd
+import requests
+import pickle
+from bs4 import BeautifulSoup as bsopa  # parse web-page
+import datetime
+from collections import defaultdict
+import re
+import numpy as np
+
 # def job_descriptions():
 #     datum_array_dict = []
 #     for j in range(0, 10, 10):
